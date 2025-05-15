@@ -11,3 +11,7 @@ My name is **Cristina**, or **Chibikurisutina** any most social networks.
 print ("Hello, World!")
 ```
 
+##### Week content to study:
+- [x] Pyhton
+- [ ] Data analysis
+- [ ] javascript
